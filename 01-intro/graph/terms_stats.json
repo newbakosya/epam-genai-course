@@ -1,0 +1,686 @@
+{
+  "totals": {
+    "LLM": {
+      "explicit": 4,
+      "implicit": 2
+    },
+    "Token": {
+      "explicit": 2,
+      "implicit": 0
+    },
+    "Next-token prediction": {
+      "explicit": 1,
+      "implicit": 2
+    },
+    "Context window": {
+      "explicit": 2,
+      "implicit": 0
+    },
+    "Hallucination": {
+      "explicit": 2,
+      "implicit": 4
+    },
+    "Prompt": {
+      "explicit": 2,
+      "implicit": 1
+    },
+    "RAG": {
+      "explicit": 2,
+      "implicit": 3
+    },
+    "Embedding": {
+      "explicit": 1,
+      "implicit": 1
+    },
+    "AI agent": {
+      "explicit": 6,
+      "implicit": 4
+    },
+    "Multimodal model": {
+      "explicit": 1,
+      "implicit": 4
+    },
+    "AI coding assistant": {
+      "explicit": 4,
+      "implicit": 3
+    },
+    "Vibe coding": {
+      "explicit": 2,
+      "implicit": 2
+    },
+    "Static analysis": {
+      "explicit": 2,
+      "implicit": 2
+    },
+    "Root cause analysis": {
+      "explicit": 5,
+      "implicit": 1
+    },
+    "Visual regression testing": {
+      "explicit": 2,
+      "implicit": 4
+    }
+  },
+  "per_section": {
+    "Introduction": {
+      "LLM": {
+        "explicit": 2,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 2,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 1,
+        "implicit": 1
+      },
+      "Context window": {
+        "explicit": 1,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 1,
+        "implicit": 1
+      },
+      "Prompt": {
+        "explicit": 1,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "Code generation & AI coding assistants": {
+      "LLM": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 1,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 1
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 3,
+        "implicit": 2
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 2,
+        "implicit": 3
+      },
+      "Vibe coding": {
+        "explicit": 2,
+        "implicit": 2
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "Test generation & QA automation": {
+      "LLM": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 0,
+        "implicit": 1
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "Code review & static analysis": {
+      "LLM": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 2,
+        "implicit": 2
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "Log analysis & incident / bug triage": {
+      "LLM": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 1
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 1,
+        "implicit": 1
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 5,
+        "implicit": 1
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "Requirements analysis & documentation": {
+      "LLM": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "RAG-based knowledge assistants": {
+      "LLM": {
+        "explicit": 1,
+        "implicit": 1
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Prompt": {
+        "explicit": 1,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 2,
+        "implicit": 3
+      },
+      "Embedding": {
+        "explicit": 1,
+        "implicit": 1
+      },
+      "AI agent": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "Customer support chatbots in e-commerce": {
+      "LLM": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 1,
+        "implicit": 1
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 2,
+        "implicit": 0
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 2,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    },
+    "Multimodal apps (vision, speech, visual UI testing)": {
+      "LLM": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Multimodal model": {
+        "explicit": 1,
+        "implicit": 4
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 2,
+        "implicit": 4
+      }
+    },
+    "Conclusion": {
+      "LLM": {
+        "explicit": 1,
+        "implicit": 1
+      },
+      "Token": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Next-token prediction": {
+        "explicit": 0,
+        "implicit": 1
+      },
+      "Context window": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Hallucination": {
+        "explicit": 0,
+        "implicit": 1
+      },
+      "Prompt": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "RAG": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Embedding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI agent": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Multimodal model": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "AI coding assistant": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Vibe coding": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Static analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Root cause analysis": {
+        "explicit": 0,
+        "implicit": 0
+      },
+      "Visual regression testing": {
+        "explicit": 0,
+        "implicit": 0
+      }
+    }
+  }
+}

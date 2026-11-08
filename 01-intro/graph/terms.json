@@ -1,0 +1,151 @@
+{
+  "_comment": "explicit = the term itself or its abbreviation; implicit = synonyms and related phrases that mean the same idea without naming the term",
+  "terms": {
+    "LLM": {
+      "explicit": [
+        "LLM",
+        "Large Language Model"
+      ],
+      "implicit": [
+        "the model",
+        "a model",
+        "model itself"
+      ]
+    },
+    "Token": {
+      "explicit": [
+        "token"
+      ],
+      "implicit": [
+        "piece of text"
+      ]
+    },
+    "Next-token prediction": {
+      "explicit": [
+        "next-token prediction"
+      ],
+      "implicit": [
+        "predicts probable text",
+        "most probable continuation"
+      ]
+    },
+    "Context window": {
+      "explicit": [
+        "context window"
+      ],
+      "implicit": [
+        "how much text the model can see"
+      ]
+    },
+    "Hallucination": {
+      "explicit": [
+        "hallucination"
+      ],
+      "implicit": [
+        "confidently wrong",
+        "confident answer that is simply wrong",
+        "wrong answer",
+        "point to the wrong cause"
+      ]
+    },
+    "Prompt": {
+      "explicit": [
+        "prompt"
+      ],
+      "implicit": [
+        "describes what they want"
+      ]
+    },
+    "RAG": {
+      "explicit": [
+        "RAG",
+        "Retrieval-Augmented Generation"
+      ],
+      "implicit": [
+        "searches the company's sources",
+        "answers questions from company knowledge",
+        "find knowledge across"
+      ]
+    },
+    "Embedding": {
+      "explicit": [
+        "embedding"
+      ],
+      "implicit": [
+        "by meaning, not only by exact words"
+      ]
+    },
+    "AI agent": {
+      "explicit": [
+        "AI agent",
+        "agent mode",
+        "agentic"
+      ],
+      "implicit": [
+        "by themselves",
+        "on its own",
+        "autonomously"
+      ]
+    },
+    "Multimodal model": {
+      "explicit": [
+        "multimodal"
+      ],
+      "implicit": [
+        "images, audio and video",
+        "speech recognition",
+        "describe photos"
+      ]
+    },
+    "AI coding assistant": {
+      "explicit": [
+        "AI coding assistant",
+        "AI assistant"
+      ],
+      "implicit": [
+        "built into the IDE",
+        "directly in the IDE",
+        "code completions"
+      ]
+    },
+    "Vibe coding": {
+      "explicit": [
+        "vibe coding"
+      ],
+      "implicit": [
+        "AI writes the whole thing",
+        "AI-native"
+      ]
+    },
+    "Static analysis": {
+      "explicit": [
+        "static analysis"
+      ],
+      "implicit": [
+        "without running it",
+        "in source code"
+      ]
+    },
+    "Root cause analysis": {
+      "explicit": [
+        "root cause analysis",
+        "RCA",
+        "root cause"
+      ],
+      "implicit": [
+        "real reason of a problem"
+      ]
+    },
+    "Visual regression testing": {
+      "explicit": [
+        "visual regression testing"
+      ],
+      "implicit": [
+        "compares screenshots",
+        "compares app screenshots",
+        "layout bugs",
+        "pixel comparison"
+      ]
+    }
+  }
+}
