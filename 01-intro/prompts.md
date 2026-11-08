@@ -6,7 +6,7 @@ Everything else I did myself:
 - picked the 8 use cases (I wanted to cover the whole dev cycle, and several of them are close to my own QA work)
 - found and checked the products for each use case before giving them to the agent, so it couldn't make up names or links
 - read the draft, rewrote the parts I didn't agree with and fixed the wording
-- wrote the glossary by hand, without AI, so I actually learn the terms
+- wrote the glossary by hand; used Claude to fix grammar
 - clicked through every link in the report before submitting
 
 Below are the prompts I gave to Copilot.
